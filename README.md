@@ -7,7 +7,7 @@ Create and deploy your own ERC-20 token with ease using the TokenName contract. 
 
 ## How to Use
 
-1. Clone the repository: `git clone https://github.com/yourusername/your-repo.git`
+1. Clone the repository: `git clone https://github.com/Magicianhax/Taiko-Customizable-ERC-20-Token-Contract/tree/main
 2. Install dependencies: `npm install` (if any)
 3. Customize the contract in `TokenName.sol` according to your needs.
 4. Follow the deployment instructions below.
