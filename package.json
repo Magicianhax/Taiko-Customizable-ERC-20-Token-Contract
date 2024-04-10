@@ -1,0 +1,22 @@
+{
+  "name": "taiko-flex-erc20",
+  "version": "1.0.0",
+  "description": "Customizable ERC-20 token contract for Taiko Testnet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Magicianhax/Taiko-Customizable-ERC-20-Token-Contract.git"
+  },
+  "author": "Magicianhax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Magicianhax/Taiko-Customizable-ERC-20-Token-Contract/issues"
+  },
+  "homepage": "https://github.com/Magicianhax/Taiko-Customizable-ERC-20-Token-Contract",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.1"
+  }
+}
